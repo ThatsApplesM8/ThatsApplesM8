@@ -1,5 +1,5 @@
-<h1 align="center">Halo!! Welcome to my GitHub page!!! I'm Calvin</h1>
-<h3 align="center">I am an incoming third year Computer Science college student at University of Oklahoma.</h3>
+<h1 align="center">Halo!! Welcome to my GitHub page!!!</h1>
+<h3 align="center">My name is Calvin Nguyen, an incoming third year Computer Science college student at University of Oklahoma.</h3>
 
 - 🔭 I'm currently coding and designing my **Portfolio Website!**
 
